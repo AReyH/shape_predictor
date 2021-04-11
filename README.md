@@ -5,5 +5,5 @@
 - Obtained 99.95% accuracy on training set, and 100% on test set.
 
 ## Code used
-- ###### Python Version #####: 3.7.10
-- ###### Packages: 
+- ** Python Version:** 3.7.10
+- ** Packages:**
