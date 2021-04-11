@@ -18,6 +18,6 @@ The Neural Netowork consists of 6 layers:
 
 This six layer Neural Network has Dropout implemented to it. This was done in order to reduce overfitting.
 
-(https://github.com/AReyH/shape_predictor/blob/main/NN_Architecture.png)
+![alt text](https://github.com/AReyH/shape_predictor/blob/main/NN_Architecture.png 'Neural Network')
 
 ## Results
