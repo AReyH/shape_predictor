@@ -4,7 +4,7 @@
 - Trained custom Neural Network using the Keras API in order to classify between four different shapes.
 - Obtained 99.95% accuracy on training set, and 100% on test set.
 
-## Code used
+## Requirements
 - **Python Version:** 3.7.10
 - **Packages:** Numpy, Pandas, Pathlib, Sklearn, Keras, Matplotlib, Seaborn.
 
