@@ -21,3 +21,8 @@ This six layer Neural Network has Dropout implemented to it. This was done in or
 ![alt text](https://github.com/AReyH/shape_predictor/blob/main/NN_Architecture.png 'Neural Network')
 
 ## Results
+![alt text](https://github.com/AReyH/shape_predictor/blob/main/images/model_accuracy.png)
+
+![alt text](https://github.com/AReyH/shape_predictor/blob/main/images/model_loss.png)
+
+![alt text](https://github.com/AReyH/shape_predictor/blob/main/images/model_cm.png)
