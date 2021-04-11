@@ -23,10 +23,10 @@ This six layer Neural Network has Dropout implemented to it. This was done in or
 ## Results
 The model was trained on 100 epochs without Early Stopping.
 
-The image below shows the accuracy for the training set (blue line) and for the validation set (orange line) throughout 100 epochs.
+The image below shows the accuracy for the training (blue line) and the validation set (orange line) throughout 100 epochs.
 ![alt text](https://github.com/AReyH/shape_predictor/blob/main/images/model_accuracy.png)
 
-The image below shows the loss for the training set (blue line) and for the validation set (orange line) throughout 100 epochs.
+The image below shows the loss for the training (blue line) and the validation set (orange line) throughout 100 epochs.
 ![alt text](https://github.com/AReyH/shape_predictor/blob/main/images/model_loss.png)
 
 The image below shows the Confusion Matrix for the test set and the predicted values using the trained model.
