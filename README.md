@@ -21,8 +21,11 @@ This six layer Neural Network has Dropout implemented to it. This was done in or
 ![alt text](https://github.com/AReyH/shape_predictor/blob/main/NN_Architecture.png 'Neural Network')
 
 ## Results
-![alt text](https://github.com/AReyH/shape_predictor/blob/main/images/model_accuracy.png)
+The model was trained on 100 epochs without Early Stopping.
 
+The image below shoes the accuracy for the training set (blue line) and for the validation set (orange line) throughout 100 epochs.
+![alt text](https://github.com/AReyH/shape_predictor/blob/main/images/model_accuracy.png)
+The image below shoes the loss for the training set (blue line) and for the validation set (orange line) throughout 100 epochs.
 ![alt text](https://github.com/AReyH/shape_predictor/blob/main/images/model_loss.png)
 
 ![alt text](https://github.com/AReyH/shape_predictor/blob/main/images/model_cm.png)
